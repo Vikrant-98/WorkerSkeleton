@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoucherCatalogueWorker", "VoucherCatalogueWorker\VoucherCatalogueWorker.csproj", "{033F6637-93AB-4BF6-A9D6-99E18067014A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033F6637-93AB-4BF6-A9D6-99E18067014A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033F6637-93AB-4BF6-A9D6-99E18067014A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033F6637-93AB-4BF6-A9D6-99E18067014A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033F6637-93AB-4BF6-A9D6-99E18067014A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4CEB06-245A-47C5-9881-313734BC068D}
+	EndGlobalSection
+EndGlobal
